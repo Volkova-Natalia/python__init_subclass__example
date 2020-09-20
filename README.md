@@ -1,0 +1,1 @@
+# python__init_subclass__example
